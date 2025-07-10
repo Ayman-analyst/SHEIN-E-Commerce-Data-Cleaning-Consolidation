@@ -74,7 +74,7 @@ sns.histplot(main_df["Price"], bins=50)
 plt.title("Product Price Distribution")
 
 
-## 🧑‍💻 Author
+### 🧑‍💻 Author
 - Ayman Mahmoud
 - 📧 ayman.anaylst@gmail.com
 - 📍 Giza, Egypt
