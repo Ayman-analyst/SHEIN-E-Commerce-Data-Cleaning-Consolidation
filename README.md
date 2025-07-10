@@ -78,19 +78,6 @@ After transformation, the final dataset includes:
 
 ---
 
-## 📊 EDA Preview (Sample Code)
-
-```python
-import seaborn as sns
-import matplotlib.pyplot as plt
-
-# Visualize product price distribution
-sns.histplot(main_df["Price"], bins=50)
-plt.title("Product Price Distribution")
-plt.xlabel("Price")
-plt.ylabel("Number of Products")
-plt.show()
-
 ## 🧑‍💻 Author
 - Ayman Mahmoud
 - 📧 ayman.anaylst@gmail.com
