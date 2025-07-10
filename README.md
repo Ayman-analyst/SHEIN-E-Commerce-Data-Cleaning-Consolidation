@@ -66,15 +66,7 @@ It consists of 10 separate CSV files, each representing a SHEIN product category
 - `Color Count`
 
 
-## 📊 EDA Preview (Sample Code Included)
-
-```python
-# Visualize product price distribution
-sns.histplot(main_df["Price"], bins=50)
-plt.title("Product Price Distribution")
-
-
-### 🧑‍💻 Author
+ 🧑‍💻 Author
 - Ayman Mahmoud
 - 📧 ayman.anaylst@gmail.com
 - 📍 Giza, Egypt
